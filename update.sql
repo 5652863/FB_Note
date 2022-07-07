@@ -1,6 +1,7 @@
+п»ї
 insert into ENUMVALUE (IDENUM, IVALUE, SNAME, SCODEDEVELOP, BSIGNIFICANT, SHELP, SNAME_USR,
                        SNAME_SHORT)
 values (127, 11,
-        'Выставляет событие контроль отгрузки',
+        'Р’С‹СЃС‚Р°РІР»СЏРµС‚ СЃРѕР±С‹С‚РёРµ РєРѕРЅС‚СЂРѕР»СЊ РѕС‚РіСЂСѓР·РєРё',
         'PKEVENT.ex_docgrp_stockgrpch_11', 1, null, null,
-        'Контроль отгрузки');
+        'РљРѕРЅС‚СЂРѕР»СЊ РѕС‚РіСЂСѓР·РєРё');
